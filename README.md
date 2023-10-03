@@ -2,14 +2,6 @@
 
 I'm Gary Oravetz, IT Manager and Operations Coordinator who loves to solve Computer lated issues. I'm passionate about simplified processes and always looking for ways to improve my skills in Computer Support.
 
-## 📈 GitHub Stats
-
-!Your Name's GitHub stats
-
-## 🏆 GitHub Trophies
-
-!trophy
-
 ## 🎨 Fun Facts
 
 - I love to travel and explore new places.
